@@ -14,5 +14,5 @@ This is a simple Telugu Media Library built using only HTML.
 ## Purpose
 This project is created for practicing basic HTML concepts like links, images, and audio.
 
-## Your site is live at 
+## Site is live at 
 https://vyshnavichhetri22.github.io/Telugu-Media-Library-Songs-playlist-/
